@@ -20,3 +20,5 @@ Netflix has classified its titles into different age certifications. The majorit
 
 Most of the movie titles are of genre either International movies or drama while TV shows are either categorised into drama or International shows.
 
+![image](https://user-images.githubusercontent.com/42835999/232536328-38509324-16a4-4e3a-8cac-f29e372b09ab.png)
+
