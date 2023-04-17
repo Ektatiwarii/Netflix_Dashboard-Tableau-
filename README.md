@@ -10,7 +10,7 @@ The dataset has been transformed using pandas to divide some of its columns, and
 
 Key Insights are:
 
-It's interesting to note that Netflix has released almost twice as many movies as TV shows. Over a period of 67 years, Netflix has released a total of 3,735 movies and 1,955 TV shows(till 2022). It suggests that Netflix has placed a greater emphasis on producing and releasing movies compared to TV shows. This may be influenced by factors such as the availability of content and the preferences of Netflix's audience.
+It's interesting to note that Netflix has released almost twice as many movies as TV shows. Over a period of 67 years, Netflix has released a total of 6,131 movies and 2,675 TV shows(till now). It suggests that Netflix has placed a greater emphasis on producing and releasing movies compared to TV shows. This may be influenced by factors such as the availability of content and the preferences of Netflix's audience.
 
 US, India and Canada are the countries that produce the most movies and shows.
 
@@ -20,6 +20,3 @@ Netflix has classified its titles into different age certifications. The majorit
 
 Most of the movie titles are of genre either International movies or drama while TV shows are either categorised into drama or International shows.
 
-The highest number of titles involved Anupam Kher as an actor followed by Shahrukh Khan.
-
-Rajiv Chilaka became the director who directed the most films with 22 titles.
