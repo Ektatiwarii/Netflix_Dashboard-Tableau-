@@ -14,7 +14,7 @@ It's interesting to note that Netflix has released almost twice as many movies a
 
 US, India and Canada are the countries that produce the most movies and shows.
 
-As per the dataset, the highest release of Movies is in 2019 with 1424 of titles and 595 of TV shows in 2020. There is an increase in film released and it peaked in 2019, then it declined probably because of COVID 19.
+As per the dataset, the highest release of Movies is in 2019 with 1424 of titles and 592 of TV shows in 2020. There is an increase in film released and it peaked in 2019, then it declined probably because of COVID 19.
 
 Netflix has classified its titles into different age certifications. The majority of titles fall under TV-MA ratings followed by TV-14, indicating that Netflix's content is primarily targeted towards mature audiences above 17 years of age. Therefore, it can be inferred that the customer segment that is most suitable for Netflix's content is individuals who are 14 years and older.
 
